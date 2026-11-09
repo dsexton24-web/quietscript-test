@@ -224,7 +224,7 @@
   <div class="wrap">
     <p><b>Plain truth:</b> QuietScript makes, verifies and reveals audio. It does not promise any learning, mental or health result, and it is not a medical product. Pets can hear high tones. Keep the volume moderate.</p>
     <p><b>Privacy:</b> your text and recordings are processed on your own device and are never uploaded.</p>
-    <p>&copy; 2026 QuietScript</p>
+    <p>&copy; 2026 QuietScript, a <a href="/">Glamourless Apps</a> product. Questions: <a href="mailto:admin@glamourlesssystems.com">admin@glamourlesssystems.com</a></p>
   </div>
 </footer>
 

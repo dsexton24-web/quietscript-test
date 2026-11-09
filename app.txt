@@ -66,7 +66,7 @@
   <header>
     <a class="brand" href="/quietscript" style="color:inherit;text-decoration:none">
       <svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#151d38"/><path d="M12 34c4-10 8-10 12 0s8 10 12 0 8-10 12 0" fill="none" stroke="#8fb4ff" stroke-width="5" stroke-linecap="round"/></svg>
-      QuietScript <span class="badge">PROTOTYPE</span>
+      QuietScript <span class="badge">FREE TO TRY</span>
     </a>
     <h1>Silent Subliminal Maker for Your Own Documents</h1>
     <p class="hero">Turn your own notes, study material or affirmations into a silent track. <b>Prove the hidden signal is really there</b>, hear it any time with Reveal, and <b>keep your document on your own device</b>.</p>
@@ -207,7 +207,7 @@
   <footer>
     <p><b>Your privacy:</b> your text and recordings are processed on this device and are never uploaded. The computer voice downloads an open-source voice model once from a public model library; your words are not sent with it.</p>
     <p><b>Plain truth:</b> QuietScript makes, verifies and reveals the audio. It does not promise any learning, mental or health result, and it is not a medical product. Pets can hear high tones. Keep the volume moderate.</p>
-    <p>QuietScript prototype. Prices shown are being tested. <a href="/quietscript" style="color:var(--accent)">About QuietScript</a></p>
+    <p>QuietScript by Glamourless Apps. Your words are processed on your own device. <a href="/quietscript" style="color:var(--accent)">About QuietScript</a> &middot; <a href="/" style="color:var(--accent)">Glamourless Apps</a></p>
   </footer>
 </div>
 
